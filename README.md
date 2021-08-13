@@ -1,7 +1,7 @@
 \> Hello Friend...
 
 
-Whoami \>  Phillip Conrado - System Development Analyst 
+Whoami \>  Phillip Conrado - Systems Development Analyst 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=dd4814)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffe873)
